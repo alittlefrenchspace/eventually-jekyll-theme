@@ -3,7 +3,7 @@ title: a little french spice
 email: info@frenchspice.co
 description: spice up your French Learning experience
 baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "alittlefrenchspace.github.io" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
